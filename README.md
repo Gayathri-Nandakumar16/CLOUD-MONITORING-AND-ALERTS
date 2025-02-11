@@ -44,23 +44,28 @@ The successful setup of AWS CloudWatch for monitoring and alerting has significa
 
 **PROOF1**:
 
+![Image](https://github.com/user-attachments/assets/dc9ebdfa-3f81-4d95-8522-972e9aef0227)
 
 
 
 **PROOF2**:
 
+![Image](https://github.com/user-attachments/assets/4aa3dbb0-522c-4907-aed7-147d931bc91c)
 
 
 
 **PROOF3**:
 
+![Image](https://github.com/user-attachments/assets/babd406a-3e74-4d28-9329-0a5bd0f13f77)
 
 
 **PROOF4**:
+
+![Image](https://github.com/user-attachments/assets/abf6d580-cbce-4233-891c-56046f02a462)
 
 
 
 **PROOF5**:
 
-
+![Image](https://github.com/user-attachments/assets/042225dd-ae52-4d6e-82e8-bdf70b0bdcd4)
 
